@@ -1,0 +1,121 @@
+﻿@model QLCuaHangTienLoi.Models.taiKhoanTV
+
+@{
+    ViewBag.Title = "XoaTK";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2 style="text-align:center; color:red">XÁC NHẬN THÔNG TIN CẦN XÓA</h2>
+
+<h3 style="text-align:center; color:red">Bạn có chắc muốn xóa tài khoản này ?</h3>
+<div>
+    
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.matKhau)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.matKhau)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.hoDem)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.hoDem)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.tenTV)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tenTV)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ngaysinh)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ngaysinh)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.gioiTinh)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.gioiTinh)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.soDT)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.soDT)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.diaChi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.diaChi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.trangThai)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.trangThai)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ghiChu)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ghiChu)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.maNhom)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.maNhom)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.maQH)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.maQH)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Xóa" class="btn btn-default" /> |
+            @Html.ActionLink("Trở về quản lý tài khoản thành viên", "TaiKhoanTV")
+        </div>
+    }
+</div>

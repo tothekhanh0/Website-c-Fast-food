@@ -1,0 +1,81 @@
+﻿@model QLCuaHangTienLoi.Models.donHang
+
+@{
+    ViewBag.Title = "XoaDH";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2 style="text-align:center; color:red">XÁC NHẬN THÔNG TIN ĐƠN HÀNG CÂN XÓA</h2>
+
+<h3 style="text-align:center; color:red">Bạn có chắc muốn xóa đơn hàng này ?</h3>
+<div>
+    
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.maKH)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.maKH)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.taiKhoan)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.taiKhoan)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ngayDat)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ngayDat)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.daKichHoat)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.daKichHoat)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ngayGH)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ngayGH)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.diaChiGH)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.diaChiGH)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ghiChu)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ghiChu)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Xóa" class="btn btn-default" /> |
+            @Html.ActionLink("Trở về quản lý đơn hàng", "DonHang")
+        </div>
+    }
+</div>

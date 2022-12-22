@@ -1,0 +1,224 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--Site metas -->
+    <meta name="keywords" content="" />
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="~/images/favicon.png" type="" />
+
+    <link rel="stylesheet" type="text/css" href="~/Content/bootstrap.css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet">
+    <link href="~/Content/font-awesome.min.css" rel="stylesheet">
+    <link href="~/Content/prettyPhoto.css" rel="stylesheet">
+    <link href="~/Content/price-range.css" rel="stylesheet">
+    <link href="~/Content/animate.css" rel="stylesheet">
+    <link href="~/Content/main.css" rel="stylesheet">
+    <link href="~/Content/responsive.css" rel="stylesheet">
+    <link href="~/Content/style.css" rel="stylesheet" />
+    <!--owl slider stylesheet -->
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+    <!-- nice select  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-nice-select/1.1.0/css/nice-select.min.css" integrity="sha512-CruCP+TD3yXzlvvijET8wV5WxxEh5H8P4cmz0RFbKK6FlZ2sYl3AEsKlLPHbniXKSrDdFewhbmBK5skbdsASbQ==" crossorigin="anonymous" />
+
+
+</head>
+<body>
+
+    <header id="header">
+        <!--header-->
+        <div class="header_top">
+            <!--header_top-->
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <div class="contactinfo">
+                            <ul class="nav nav-pills">
+                                <li><a href="#"><i class="fa fa-phone"></i> (028) 383 29 666</a></li>
+                                <li><a href="#"><i class="fa fa-envelope"></i> online@satrafood.com.vn</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="social-icons pull-right">
+                            <ul class="nav navbar-nav">
+                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div><!--/header_top-->
+
+        <div class="header-middle">
+            <!--header-middle-->
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 clearfix">
+                        <h2 style="color:red">FastFood</h2>
+                        <div class="logo pull-left">
+                            <a href="index.html"><img src="~/images/favicon.png" alt="" width="15%" /></a>
+                        </div>
+                        
+                    </div>
+                    <div class="col-md-8 clearfix">
+                        <div class="shop-menu clearfix pull-right">
+                            <ul class="nav navbar-nav">
+                                <li>
+                                    <a href="@Url.Action("Giohang","Giohang")" style="color:blue; font-weight:bold; text-decoration:none;">
+                                        <img src="~/images/giohang.gif" style="width: 70px; height: 70px;" />Gio Hàng (@ViewBag.Tongsoluong)
+                                    </a>
+                                </li>
+                                <li><a href="@Url.Action("Dangnhap","Nguoidung")"><i class="fa fa-lock"></i> Đăng nhập </a></li>
+                                <li><a href="@Url.Action("Dangky","Nguoidung")"><i class="fa fa-user"></i> Đăng ký </a></li>
+                                <li><a href="@Url.Action("Login","Admin")"><i class="fa fa-lock"></i> Admin </a></li>
+                                @*<li><a href="checkout.html"><i class="fa fa-crosshairs"></i> Checkout</a></li>*@
+                                @*<li><a href="@Url.Action("GiohangPartial","GioHang")"><i class="fa fa-shopping-cart"></i> Cart</a></li>*@
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div><!--/header-middle-->
+
+        <div class="header-bottom">
+            <!--header-bottom-->
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-9">
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                        </div>
+                        <div class="mainmenu pull-left">
+                            <ul class="nav navbar-nav collapse navbar-collapse">
+                                <li>@Html.ActionLink("Sản phẩm", "BanHang", "BanHang")</li>
+                                <li>@Html.ActionLink("Giới thiệu", "GioiThieu", "BanHang")</li>
+                                <li>@Html.ActionLink("Liên hệ", "Lienhe", "BanHang")</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        @using (Html.BeginForm("Seach", "BanHang"))
+                        {
+
+                            @Html.TextBox("SeachString") <input type="submit" placeholder="Search" value="Tìm kiếm" />
+
+                        }
+                    </div>
+                </div>
+            </div>
+        </div><!--/header-bottom-->
+    </header><!--/header-->
+
+    <div>
+        @RenderBody()
+    </div>
+    <!-- footer section -->
+    <footer class="footer_section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 footer-col">
+                    <div class="footer_contact">
+                        <h4>
+                            Contact Us
+                        </h4>
+                        <div class="contact_link_box">
+                            <a href="">
+                                <i class="fa fa-map-marker" aria-hidden="true"></i>
+                                <span>
+                                    Location
+                                </span>
+                            </a>
+                            <a href="">
+                                <i class="fa fa-phone" aria-hidden="true"></i>
+                                <span>
+                                    Call +01 1234567890
+                                </span>
+                            </a>
+                            <a href="">
+                                <i class="fa fa-envelope" aria-hidden="true"></i>
+                                <span>
+                                    demo@gmail.com
+                                </span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 footer-col">
+                    <div class="footer_detail">
+                        <a href="" class="footer-logo">
+                            Feane
+                        </a>
+                        <p>
+                            Necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with
+                        </p>
+                        <div class="footer_social">
+                            <a href="">
+                                <i class="fa fa-facebook" aria-hidden="true"></i>
+                            </a>
+                            <a href="">
+                                <i class="fa fa-twitter" aria-hidden="true"></i>
+                            </a>
+                            <a href="">
+                                <i class="fa fa-linkedin" aria-hidden="true"></i>
+                            </a>
+                            <a href="">
+                                <i class="fa fa-instagram" aria-hidden="true"></i>
+                            </a>
+                            <a href="">
+                                <i class="fa fa-pinterest" aria-hidden="true"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 footer-col">
+                    <h4>
+                        Opening Hours
+                    </h4>
+                    <p>
+                        Everyday
+                    </p>
+                    <p>
+                        08.00 Am -10.00 Pm
+                    </p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- footer section -->
+    <!-- jQery -->
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+    <!-- popper js -->
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
+    </script>
+    <!-- bootstrap js -->
+    <script src="~/Scripts/bootstrap.js"></script>
+    <!-- owl slider -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js">
+    </script>
+    <!-- isotope js -->
+    <script src="https://unpkg.com/isotope-layout@3.0.4/dist/isotope.pkgd.min.js"></script>
+    <!-- nice select -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-nice-select/1.1.0/js/jquery.nice-select.min.js"></script>
+    <!-- custom js -->
+    <script src="~/Scripts/custom.js"></script>
+    <!-- Google Map -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCh39n5U-4IoWpsVGUHWdqB6puEkhRLdmI&callback=myMap">
+    </script>
+    <!-- End Google Map -->
+</body>
+</html>

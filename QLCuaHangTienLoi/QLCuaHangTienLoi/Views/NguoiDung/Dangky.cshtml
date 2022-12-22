@@ -1,0 +1,85 @@
+﻿
+@{
+    ViewBag.Title = "Dangky";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h2 style="text-align:center">ĐĂNG KÝ THÀNH VIÊN</h2>
+<table align="center">
+
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary(true)
+        <tr style="height:40px">
+            <td>Họ đệm khách hàng: </td>
+            <td>
+                @Html.TextBox("HoDem")
+                @ViewData["Loi1"]
+            </td>
+        </tr>
+        <tr style="height:40px">
+            <td>Tên khách hàng: </td>
+            <td>
+                @Html.TextBox("Ten")
+                @ViewData["Loi2"]
+            </td>
+        </tr>
+        <tr style="height:40px">
+            <td>Tên đăng nhập: </td>
+            <td>
+                @Html.Password("TenDN")
+                @ViewData["Loi3"]
+            </td>
+        </tr>
+        <tr style="height:40px">
+            <td>Mật khẩu: </td>
+            <td>
+                @Html.Password("MatKhau")
+                @ViewData["Loi4"]
+            </td>
+        </tr>
+
+        <tr style="height:40px">
+            <td>Mật khẩu nhập lại: </td>
+            <td>
+                @Html.TextBox("MatKhauNhapLai")
+                @ViewData["Loi5"]
+            </td>
+        </tr>
+        <tr style="height:40px">
+            <td>Email: </td>
+            <td>
+                @Html.TextBox("Email")
+                @ViewData["Loi6"]
+            </td>
+        </tr>
+        <tr style="height:40px">
+            <td>Điện thoại: </td>
+            <td>
+                @Html.TextBox("DienThoai")
+                @ViewData["Loi7"]
+            </td>
+        </tr>
+        <tr>
+            <td>Địa chỉ: </td>
+            <td>
+                @Html.TextBox("DiaChi")
+                @ViewData["Loi8"]
+            </td>
+        </tr>
+
+        <tr style="height:40px">
+            <td>Ngày sinh: </td>
+            <td>
+                <input type="date" name="Ngaysinh" />
+            </td>
+        </tr>
+        <tr style="height:40px">
+            <td></td>
+            <td>
+                <input type="submit" value="Đăng ký" />
+            </td>
+        </tr>
+    }
+</table>
+

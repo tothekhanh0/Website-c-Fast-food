@@ -1,0 +1,10 @@
+﻿@model IEnumerable<QLCuaHangTienLoi.Models.loaiSanPham>
+    <p class="lead">Loại Sản Phẩm</p>
+<div class="list-group">
+    @foreach(var item in Model)
+    {
+        <a href="@Url.Action("SPTheoDanhMuc", "BanHang", new {id = item.maLoai})" class="list-group-item">
+        @item.loaiSP
+        </a>
+    }
+</div>

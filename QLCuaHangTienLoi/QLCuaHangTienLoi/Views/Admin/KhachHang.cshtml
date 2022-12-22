@@ -1,0 +1,60 @@
+﻿@model IEnumerable<QLCuaHangTienLoi.Models.khachHang>
+
+@{
+    ViewBag.Title = "KhachHang";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2 style="text-align:center; color:red">QUẢN LÝ KHÁCH HÀNG</h2>
+
+<table class="table" border="1">
+    <tr>
+        <th style="width:120px"> Mã khách hàng </th>
+        <th style="width:200px"> Tên khách hàng </th>
+        <th style="width:150px"> Số điện thoại </th>
+        <th style="width:200px"> Email </th>
+        <th style="width:300px"> Địa chỉ </th>
+        <th style="width:200px"> Ngày sinh </th>
+        <th style="width:100px"> Gioi tính </th>
+        <th style="width:200px"> Ghi chú </th>
+        <th style="width:150px"> Quận huyện </th>
+        <th style="width:200px"></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.maKH)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.tenKH)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.soDT)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.diaChi)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ngaySinh)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.gioiTinh)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ghiChu)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.quanHuyen.tenQH)
+        </td>
+        <td>
+            @Html.ActionLink("Sửa", "SuaKH", new { id=item.maKH }) |
+            @Html.ActionLink("Xóa", "XoaKH", new { id=item.maKH })
+        </td>
+    </tr>
+}
+
+</table>

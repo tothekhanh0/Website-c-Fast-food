@@ -1,0 +1,103 @@
+﻿@model QLCuaHangTienLoi.Models.sanPham
+
+@{
+    ViewBag.Title = "XoaSP";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2 style="text-align:center; color:red">XÁC NHẬN THÔNG TIN CẦN XÓA</h2>
+
+<h3>Bạn quyết định xóa sản phẩm này ?</h3>
+<div>
+    
+    <hr />
+    <dl class="dl-horizontal">
+        <dt> Tên sản phẩm: </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tenSP)
+        </dd>
+
+        <dt> Hình đại diện: </dt>
+
+        <dd>
+            <img src="@Url.Content("~/images/"+ Model.hinhDD)" style="width:70px" />
+        </dd>
+
+        <dt> Nội dung tóm tắt: </dt>
+
+        <dd style="width:600px; text-align:justify">
+            @Html.DisplayFor(model => model.ndTomTat)
+        </dd>
+
+        <dt> Ngày đăng: </dt>
+
+        <dd>
+            @string.Format("{0:dd/MM/yyyy}", Model.ngayDang)
+        </dd>
+
+        <dt> Loại hàng: </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.loaiHang)
+        </dd>
+
+        <dt> Nội dung: </dt>
+
+        <dd style="width:600px; text-align:justify">
+            @Html.DisplayFor(model => model.noiDung)
+        </dd>
+
+        <dt> Tài khoản: </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.taiKhoan)
+        </dd>
+
+        <dt> Đã duyệt: </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.daDuyet)
+        </dd>
+
+        <dt> Gía bán: </dt>
+
+        <dd>
+            @string.Format("{0:0,0}", Model.giaBan) VND
+        </dd>
+
+        <dt> Giam giá: </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.giamGia)
+        </dd>
+
+        <dt> Mã loại</dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.maLoai)
+        </dd>
+
+        <dt> Nhà sản xuất: </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nhaSanXuat)
+        </dd>
+
+        <dt> Đơn vị tính: </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dvt)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Xóa" class="btn btn-default" /> |
+            @Html.ActionLink("TRỞ VỀ", "SanPham")
+        </div>
+    }
+</div>

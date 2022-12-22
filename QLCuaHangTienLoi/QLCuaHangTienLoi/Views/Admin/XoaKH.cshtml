@@ -1,0 +1,89 @@
+﻿@model QLCuaHangTienLoi.Models.khachHang
+
+@{
+    ViewBag.Title = "XoaKH";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2 style="text-align:center; color:red">XÁC NHẬN THÔNG TIN KHÁCH HÀNG CẦN XÓA</h2>
+
+<h3 style="text-align:center; color:red">Bạn quyết định xóa khách hàng này</h3>
+<div>
+    
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.tenKH)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tenKH)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.soDT)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.soDT)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.diaChi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.diaChi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ngaySinh)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ngaySinh)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.gioiTinh)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.gioiTinh)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ghiChu)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ghiChu)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.maQH)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.maQH)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Xóa" class="btn btn-default" /> |
+            @Html.ActionLink("Trở về quản lý khách hàng", "KhachHang")
+        </div>
+    }
+</div>

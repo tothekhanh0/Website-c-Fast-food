@@ -1,0 +1,160 @@
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\QLCuaHangTienLoi.dll.config
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\QLCuaHangTienLoi.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\QLCuaHangTienLoi.pdb
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\csc.exe
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\csc.exe.config
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\csc.rsp
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\csi.exe
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\csi.exe.config
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\csi.rsp
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.AppContext.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Console.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.IO.Compression.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Security.Claims.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.ValueTuple.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\vbc.exe
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\vbc.exe.config
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\vbc.rsp
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\VBCSCompiler.exe
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\Antlr3.Runtime.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\Newtonsoft.Json.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\System.Web.Helpers.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\System.Web.Mvc.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\System.Web.Optimization.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\System.Web.Razor.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\System.Web.WebPages.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\System.Web.WebPages.Razor.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\WebGrease.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\System.Web.Helpers.xml
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\System.Web.Mvc.xml
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\System.Web.Optimization.xml
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\System.Web.Razor.xml
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\System.Web.WebPages.xml
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\System.Web.WebPages.Razor.xml
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\Newtonsoft.Json.xml
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\Antlr3.Runtime.pdb
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\obj\Debug\QLCuaHangTienLoi.csprojAssemblyReference.cache
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\obj\Debug\QLCuaHangTienLoi.csproj.CoreCompileInputs.cache
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\obj\Debug\QLCuaHangTienLoi.csproj.CopyComplete
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\obj\Debug\QLCuaHangTienLoi.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\obj\Debug\QLCuaHangTienLoi.pdb
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\PagedList.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\PagedList.Mvc.dll
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\PagedList.xml
+C:\Users\FPT Shop\Desktop\DoAnCoSo\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\PagedList.Mvc.xml
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\QLCuaHangTienLoi.dll.config
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\QLCuaHangTienLoi.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\QLCuaHangTienLoi.pdb
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\csc.exe
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\csc.exe.config
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\csc.rsp
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\csi.exe
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\csi.exe.config
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\csi.rsp
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.AppContext.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Collections.Immutable.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Console.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.IO.Compression.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.IO.FileSystem.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.IO.Pipes.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Reflection.Metadata.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Security.AccessControl.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Security.Claims.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.ValueTuple.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Xml.XPath.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\vbc.exe
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\vbc.exe.config
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\vbc.rsp
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\VBCSCompiler.exe
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\roslyn\VBCSCompiler.exe.config
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\Antlr3.Runtime.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\Microsoft.Web.Infrastructure.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\Newtonsoft.Json.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\PagedList.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\PagedList.Mvc.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\System.Web.Helpers.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\System.Web.Mvc.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\System.Web.Optimization.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\System.Web.Razor.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\System.Web.WebPages.Deployment.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\System.Web.WebPages.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\System.Web.WebPages.Razor.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\WebGrease.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\PagedList.xml
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\PagedList.Mvc.xml
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\System.Web.Helpers.xml
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\System.Web.Mvc.xml
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\System.Web.Optimization.xml
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\System.Web.Razor.xml
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\System.Web.WebPages.xml
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\System.Web.WebPages.Deployment.xml
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\System.Web.WebPages.Razor.xml
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\Newtonsoft.Json.xml
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\Antlr3.Runtime.pdb
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\obj\Debug\QLCuaHangTienLoi.csprojAssemblyReference.cache
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\obj\Debug\QLCuaHangTienLoi.csproj.CoreCompileInputs.cache
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\obj\Debug\QLCuaHangTienLoi.csproj.CopyComplete
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\obj\Debug\QLCuaHangTienLoi.dll
+D:\xampp\QLCuaHangTienLoi-20220914T100746Z-001\QLCuaHangTienLoi\QLCuaHangTienLoi\obj\Debug\QLCuaHangTienLoi.pdb
